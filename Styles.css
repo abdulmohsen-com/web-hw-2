@@ -1,0 +1,33 @@
+.link{
+    text-decoration: none;
+ }
+.listm{
+    background-color: olivedrab;
+    width: 100%;
+}
+.mainbtn{
+    background-color: olivedrab;
+    width: 80px;
+}
+.mainbtn1{
+    background-color: olivedrab;
+    width: 80px;
+    text-decoration: none;
+    color: white;
+}
+.crew1{
+    list-style: none;
+}
+.mainbtn2{
+    background-color: olivedrab;
+    width: 80px;
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.mainol{
+    background-color: olivedrab;
+  width: 10%;
+}
