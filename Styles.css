@@ -75,11 +75,28 @@
     margin-right: 16px;
     font-size: 17px;
   }
-.center {
+  .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+  }
+.img1 {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 50%;
+    width: 250px;
+    height: 250px;
+  }
+  .img2 {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 50%;
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
   }
 body{
     background-color: #264653 ;
@@ -142,6 +159,9 @@ h1{
   width: 10%;
 }
 .h-about{
+    color: white;
+}
+.color{
     color: white;
 }
 /* The Modal (background) */
